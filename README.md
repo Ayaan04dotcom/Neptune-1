@@ -12,7 +12,7 @@ Neptune 1 is a functional, OS-integrated prototype that demonstrates intent base
 - Processing: Python script sends it to OpenAI GPT for generation
 - Output: Result is copied to clipboard for pasting into any environment (Pages, Gmail, Notes, etc.)
 
-## 📄 Documentation
+##  Documentation
 
 The full paper explaining Intent-Based Interfaces and the Neptune 1 architecture will be available soon.
 
