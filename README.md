@@ -1,10 +1,10 @@
 # Neptune 1
 
-A working prototype of an Intent-Based Interface for macOS.
+A working prototype of an Intent-Based Interface.
 
 ## What is Neptune 1?
 
-Neptune 1 is a functional, OS-integrated prototype that demonstrates intent based interaction using natural language. Built on Raycast, Python, and OpenAI's API, it lets users express a high-level goal like “write a one-page report on biodiversity”, and receive immediate, usable output on the clipboard.
+Neptune 1 is a functional, OS-integrated prototype on macOS that demonstrates intent based interaction using natural language. Built on Raycast, Python, and OpenAI's API, it lets users express a high-level goal like “write a one-page report on biodiversity”, and receive immediate, usable output on the clipboard.
 
 ##  How It Works
 
@@ -14,7 +14,7 @@ Neptune 1 is a functional, OS-integrated prototype that demonstrates intent base
 
 ##  Documentation
 
-The full paper explaining Intent-Based Interfaces and the Neptune 1 architecture will be available soon.
+https://drive.google.com/file/d/102yhrtr-aLgusZSxdfGuzg6FfNZ6euwW/view?usp=sharing
 
 ##  Status
 
@@ -22,8 +22,6 @@ Currently tested and operational for:
 - Writing reports
 - Generating emails
 - Drafting product descriptions
-- Writing code explanations
-- Producing natural-language replies
 
 Runs locally on macOS.
 
